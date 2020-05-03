@@ -1,0 +1,1 @@
+pyinstaller -F -p D:\Python38 -i image/music.ico player.py
